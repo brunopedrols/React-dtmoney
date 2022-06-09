@@ -23,7 +23,7 @@
 </h4>
 
 <h1 align="center">Screenshots</h1>
-![Print2](https://user-images.githubusercontent.com/99897640/172955321-2d47ab81-2c3c-4345-850f-7ea9a11a945f.png)
+![Print2](https://user-images.githubusercontent.com/99897640/172955321-2d47ab81-2c3c-4345-850f-7ea9a11a945f.png),
 
 ![Print1](https://user-images.githubusercontent.com/99897640/172955356-53ee2b46-c7f2-47a3-a75f-2b8a20a3c35b.png)
 
