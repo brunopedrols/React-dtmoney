@@ -8,7 +8,7 @@
 
 <h1 align="center"> Tecnologias </h1>
 
-<h4> Esse Projeto esta desnvolvido nas seguinte tecnologias.</h4>
+<h4> Esse Projeto esta desenvolvido nas seguinte tecnologias.</h4>
 <ul>
     <li>ReactJS</li>
     <li>TypeScript</li>
